@@ -131,7 +131,7 @@ Legenda:
 1. Dziubiński Maciej
 1. Gawin Mateusz
 1. Gołuński Radosław
-1. Jabłoński Jakub
+1. [Jabłoński Jakub](https://github.com/jakjablonski/ruby)
 1. Jędzierowska Magdalena
 1. Kalinowski Damian
 1. Katovich Darya
